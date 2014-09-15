@@ -51,11 +51,11 @@ to compute the potential, kinetic, and total energy of the particle as a
 function of time. These results are shown below for both the harmonic well
 and the double well.
 
-![SHO Simulation Video](SHO_animation.mp4)
 ![SHO Energies Image](SHO_Energies.png)
+![SHO Simulation Video](SHO_animation.gif)
 
-![DW Simulation Video](DW_animation.mp4)
 ![DW Energies Image](DW_Energies.png)
+![DW Simulation Video](DW_animation.gif)
 
 
 ## License
